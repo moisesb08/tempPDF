@@ -1,0 +1,26 @@
+/*
+* Title: 404.css
+* Abstract: Styling sheet for 404.html
+* Author: Moises Bernal
+* Date: 3-10-2018
+*/
+
+html body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: ghostwhite;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align:center;
+	font-size: 120px;
+	font-weight:900;
+	color: black;
+  	-webkit-text-fill-color: rebeccapurple;
+  	-webkit-text-stroke-width: 1px;
+  	-webkit-text-stroke-color: black;
+}
+
+h3 {
+    text-align: center;
+}
